@@ -1,4 +1,5 @@
 package by.homework.frontcontroller;
 
-public class PageController {
+public interface PageController {
+    void process();
 }
